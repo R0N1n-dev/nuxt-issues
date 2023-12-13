@@ -10,5 +10,11 @@
   },
   "devDependencies": {
     "nuxt": "^3.8.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "boxicons": "^2.1.4",
+    "multer": "^1.4.5-lts.1",
+    "wave-ui": "^3.8.1"
   }
 }
