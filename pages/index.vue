@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>Nuxt Issues</p>
-    <Select />
+    <Form />
   </div>
 </template>
 
